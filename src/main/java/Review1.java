@@ -35,9 +35,9 @@ public class Review1 {
 
 	public static void q5() {
 		//Write question 5 code here
-		String First = "Hello";
-		String Second = "World";
-		System.out.println(First + " " + Second);
+		String Hello = "Hello";
+		String World = "World";
+		System.out.println(Hello + " " + World);
 	}
 
 }
